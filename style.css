@@ -1,0 +1,203 @@
+
+@media  screen and (min-width:400px){
+    .menu{
+		width:100%;
+		height: 40px;
+		background-color:whitesmoke;
+		margin-left:auto;
+		margin-right:auto;
+		color:#fff;
+		text-align: center;
+		line-height: 40px;
+
+		}
+		.sabitleme{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 10000;
+		width: 100%;
+		left:0;
+		right: 0;
+		z-index: 99999;
+		}
+.nav{
+
+    margin-left:100px;
+}
+   
+      #hosgeldiniz{
+          margin-top:30px;
+        text-align: center;
+        }
+  .renk{
+
+    background-color:paleturquoise;
+  }
+  #contact{
+    color:#fff;
+    padding:1rem;
+
+}
+
+#contact .contact-form{
+ max-width:700px;
+ margin-left:auto;
+ margin-right:auto;
+ display:flex;
+ flex-direction:column;
+
+}
+#contact .contact-form ul{
+ list-style-type: none;
+ display:flex;
+ margin-top:1rem;
+ align-self: center;
+}
+#contact .contact-form ul li a {
+
+
+ padding:1rem;
+ font-size:2rem;
+
+}
+#contact .contact-form ul li a:hover{
+
+opacity:0.8;
+}
+.text-center.heading-medium{
+
+   color:slateblue;
+
+}
+h2{
+
+    text-align: center;
+
+    }
+    
+    .fas{
+        cursor: pointer;
+    }
+    h3{
+        margin-top: 80px;
+
+       text-align: center;
+        
+    }
+    p{
+        margin-left:200px;
+        margin-right:200px;
+        
+        text-align: center;
+        color:teal;
+    }
+    a{
+        color:blue;
+    }
+    
+    #header{
+        font-size: 25px;
+    }
+}
+@media  screen and (max-width:400px){
+    .menu{
+		width:100%;
+		height: 40px;
+		background-color:whitesmoke;
+		margin-left:auto;
+		margin-right:auto;
+		color:#fff;
+		text-align: center;
+		line-height: 40px;
+
+		}
+		.sabitleme{
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 10000;
+		width: 100%;
+		left:0;
+		right: 0;
+		z-index: 99999;
+		}
+.nav{
+
+    margin-left:100px;
+}
+   
+      #hosgeldiniz{
+          margin-top:30px;
+        text-align: center;
+        }
+  .renk{
+
+    background-color:paleturquoise;
+  }
+  #contact{
+    color:#fff;
+    padding:1rem;
+
+}
+
+#contact .contact-form{
+ max-width:700px;
+ margin-left:auto;
+ margin-right:auto;
+ display:flex;
+ flex-direction:column;
+
+}
+#contact .contact-form ul{
+ list-style-type: none;
+ display:flex;
+ margin-top:1rem;
+ align-self: center;
+}
+#contact .contact-form ul li a {
+
+
+ padding:1rem;
+ font-size:2rem;
+
+}
+#contact .contact-form ul li a:hover{
+
+opacity:0.8;
+}
+.text-center.heading-medium{
+
+   color:slateblue;
+
+}
+h2{
+
+    text-align: center;
+
+    }
+    
+    .fas{
+        cursor: pointer;
+    }
+    h3{
+        margin-top: 80px;
+
+       text-align: center;
+        
+    }
+    p{
+        margin-left:200px;
+        margin-right:200px;
+        
+        text-align: center;
+        color:teal;
+    }
+    a{
+        color:white;
+    }
+    
+    #header{
+        font-size: 25px;
+    }
+}
